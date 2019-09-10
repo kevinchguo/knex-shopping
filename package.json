@@ -1,0 +1,27 @@
+{
+  "name": "knex-shopping",
+  "version": "1.0.0",
+  "description": "## Objective",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchguo/knex-shopping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchguo/knex-shopping/issues"
+  },
+  "homepage": "https://github.com/kevinchguo/knex-shopping#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "knex": "^0.19.3",
+    "pg": "^7.12.1"
+  }
+}
